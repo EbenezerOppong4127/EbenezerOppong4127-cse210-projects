@@ -70,7 +70,7 @@ class ScriptureProgram
     {
         List<Scripture> library = new List<Scripture>();
         
-        // please load the file scriptures.txt from here by specifying the full path of your scriptures.txt
+        // please load the file scriptures.txt from here by specifying the full path of the scriptures.txt . check scriptures.txt is present in the source code file
         string filePath = "C:/Users/troju/RiderProjects/EbenezerOppong4127-cse210-projects/prove/Develop03/bin/Debug/net7.0/scriptures.txt"; // Let  Update the file path as needed
 
         try
