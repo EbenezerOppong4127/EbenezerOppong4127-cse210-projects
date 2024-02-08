@@ -245,7 +245,7 @@ class Program
 
                 //  To show extend on Creation and prove I add in the BreathCycle  to be repeat after a certain time of pause Repeat BreathCycle  By setting the pause duration .
                 // Extend and prove Like when the time is too long the code sperate the time so that the breathing activity start and after some time of second pause and display a message Get ready for the next cycle and start again.
-
+                // To demonstrate an extension in functionality, I enhanced the code by introducing the repetition of the BreathCycle after a designated pause duration. This feature allows for the extension and validation of the code's effectiveness. For instance, when the specified duration is lengthy, the code automatically segments the time. It initiates the breathing activity, followed by a brief pause. Subsequently, it displays a message prompting the user to 'Get ready for the next cycle' before restarting the cycle.
                 RepeatBreathCycle(Math.Min(remainingDuration, 10), 3);
 
                 remainingDuration -= 10;
