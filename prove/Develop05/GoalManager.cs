@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 
 // To improve and extend functionality, I have added the following ideas:
-// 2. Implement a feature to edit existing goals.
-// 3. Allow users to delete goals from the list.
-// 4. Enable users to reset goals points.
+// 1. Implement a feature to edit existing goals.
+// 2. Allow users to delete goals from the list.
+// 3. Enable users to reset goals points.
 
 
 public class GoalManager
